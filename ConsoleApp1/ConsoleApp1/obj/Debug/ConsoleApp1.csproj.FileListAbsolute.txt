@@ -1,0 +1,7 @@
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Binoy\TortoiseGit\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
